@@ -1,0 +1,6 @@
+C:\Users\mertd\OneDrive\Belgeler\C#\KelimeTahminOyunu\KelimeTahminOyunu\obj\Debug\KelimeTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\KelimeTahminOyunu\KelimeTahminOyunu\obj\Debug\KelimeTahminOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\KelimeTahminOyunu\KelimeTahminOyunu\obj\Debug\Form1.resources
+C:\Users\mertd\OneDrive\Belgeler\C#\KelimeTahminOyunu\KelimeTahminOyunu\obj\Debug\KelimeTahminOyunu.Properties.Resources.resources
+C:\Users\mertd\OneDrive\Belgeler\C#\KelimeTahminOyunu\KelimeTahminOyunu\obj\Debug\KelimeTahminOyunu.csproj.GenerateResource.cache
+C:\Users\mertd\OneDrive\Belgeler\C#\KelimeTahminOyunu\KelimeTahminOyunu\obj\Debug\KelimeTahminOyunu.csproj.CoreCompileInputs.cache
